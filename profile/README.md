@@ -23,8 +23,8 @@
 |:----------:|:--------------:|
 | 정재헌      | 팀장 & BE        | 
 | 이가연      | FE              |
-| 이진우      | Vision AI       | 
-| 최승규      | RAG             | 
+| 이진우      | RAG             | 
+| 최승규      | Vision AI       | 
 
 ### 🛠 기술 스택
 <table>
@@ -53,19 +53,20 @@
       <td>비전 모델</td>
       <td>
         <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"/>
+        <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"/>
+        
       </td>
     </tr>
     <tr>
       <td>RAG</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"/>
       </td>
     </tr>
     <tr>
       <td>인프라</td>
       <td>
-        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
       </td>
