@@ -54,7 +54,6 @@
       <td>
         <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"/>
-        
       </td>
     </tr>
     <tr>
