@@ -15,7 +15,33 @@
 ### 🚀 목표
 - 귀농 청년들을 위한 AI 기반 농사 가이드 시스템
 - 농업 경험이 없는 귀농 청년들도 손쉽게 농사를 배우고 실천할 수 있는 디지털 농업 환경 조성
-- 기존 기술(농업기술포털의 이삭이, 국가 농작물 병해충 관리시스템의 병해충 AI 영상진단 서비스)들을 통합하고, 단점을 보완해 더 나은 유저 경험을 제공
+- 기존 기술(농업기술포털의 이삭이, 국가 농작물 병해충 관리시스템의 병해충 AI 영상진단 서비스)들을 통합, 단점을 보완해 더 나은 유저 경험을 제공
+
+---
+
+### ⭐️ 주요 기능
+<div align="center">
+  <h2>🌱 회원가입 & 로그인 🌱</h2>
+  <img alt="signup and login" src="https://github.com/user-attachments/assets/192a3340-f6c0-4c83-9444-e30b7747b107" width="300"/>
+
+  
+  <h2>🌱 홈 페이지 🌱</h2>
+  <img alt="homepage" src="https://github.com/user-attachments/assets/23751d05-231e-4e3d-8a8c-f00beb9bb986" width="300"/>
+
+
+  <h2>🌱 작물 질병 분류 및 답변 🌱</h2>
+  <img alt="crop" src="https://github.com/user-attachments/assets/0652a9c5-8d6e-4629-9093-d5287ed9220b" width="300"/>
+
+
+  <h2>🌱 비 작물 이미지 처리 🌱</h2>
+  <img alt="pizza" src="https://github.com/user-attachments/assets/1d2c6866-338a-42dd-848e-e760f947be08" width="300"/>
+
+
+  <h2>🌱 기타 🌱</h2>
+  <img alt="etc" src="https://github.com/user-attachments/assets/63c44a10-109b-4c14-9055-4e901e9fb29f" width="300"/>
+</div>
+
+---
 
 ### 🧑‍💻 팀원 소개
 
@@ -46,7 +72,8 @@
       <td>백엔드</td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=fff"/>
       </td>
     </tr>
     <tr>
@@ -66,6 +93,7 @@
     <tr>
       <td>인프라</td>
       <td>
+        <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?logo=naver&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
       </td>
@@ -76,6 +104,14 @@
 ---
 
 ### 🧸 See More
+<details open>
+  <summary> 🍀 Poster </summary>
+  <div align="center">
+    <img width="539" alt="poster" src="https://github.com/user-attachments/assets/c4157203-9402-4442-af85-6e937d72c0ab" />
+  </div>
+</details>
+
+#### 🗂️ Repositories
 - [FE](https://github.com/SogangCapstone-Team6/frontend)
 - [BE](https://github.com/SogangCapstone-Team6/u-guinong-backend)
 - [Vision AI](https://github.com/SogangCapstone-Team6/vision_model)
