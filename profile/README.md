@@ -22,14 +22,14 @@
 ### ⭐️ 주요 기능
 <div align="center">
   
-회원가입 & 로그인 | 홈 페이지 | 작물 질병 분류 및 답변 | 
---------------|---------|-------------------|
+회원가입 & 로그인 | 홈 페이지 | 작물 질병 분류 | 
+--------------|---------|-------------|
 <img alt="signup and login" src="https://github.com/user-attachments/assets/192a3340-f6c0-4c83-9444-e30b7747b107" width="200"/> | <img alt="homepage" src="https://github.com/user-attachments/assets/23751d05-231e-4e3d-8a8c-f00beb9bb986" width="200"/> | <img alt="crop" src="https://github.com/user-attachments/assets/8bc78aa2-0c4e-4db5-8be1-8c90a243a7bf" width="200"/> 
 
 
-비 작물 이미지 처리 | 기타 |
-----------------|----|
-<img alt="pizza" src="https://github.com/user-attachments/assets/1d2c6866-338a-42dd-848e-e760f947be08" width="200"/> | <img alt="etc" src="https://github.com/user-attachments/assets/63c44a10-109b-4c14-9055-4e901e9fb29f" width="200"/> |
+답변 | 비 작물 이미지 처리 | 기타 |
+----|----------------|----|
+<img alt="answer" src="https://github.com/user-attachments/assets/66b62f4f-4928-4274-8883-98a103497ca3" width="200"/> | <img alt="pizza" src="https://github.com/user-attachments/assets/1d2c6866-338a-42dd-848e-e760f947be08" width="200"/> | <img alt="etc" src="https://github.com/user-attachments/assets/63c44a10-109b-4c14-9055-4e901e9fb29f" width="200"/> |
 
 </div>
 
